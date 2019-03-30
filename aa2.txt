@@ -3,3 +3,12 @@
 5A6本地第五次，dev分支 远6  本地创建
 
 5A7本地第六次 ，dev分支 本地创建
+
+19-3-30-win10重装系统
+本地电脑修改
+$ git branch -a
+* master
+  remotes/origin/HEAD -> origin/master
+  remotes/origin/dev
+  remotes/origin/du1
+  remotes/origin/master
